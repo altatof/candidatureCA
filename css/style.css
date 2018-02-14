@@ -1,0 +1,19 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body{
+	background: url(../ca.jpg) no-repeat fixed -100px -50px;
+}
+.container{
+	background: rgba(255,255,255,0.8);
+}
+ul{
+	list-style: disc;
+	text-align: left;
+	padding-left: 40px;
+}
