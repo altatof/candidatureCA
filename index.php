@@ -9,7 +9,7 @@ if (isset($_POST['foi'])){
         $headers = 'From: membres@lelefan.org' . "\r\n" .
         'Reply-To: '. $_POST["email"] . "\r\n" .
         'X-Mailer: PHP/' . phpversion();
-        mail($to_email, $subject, $message, $headers);
+        mail('membres@lelefan.org', $subject, $message, $headers);
         $page = "thanks";
         $_SESSION['messages']["success"][] = "Merci, ta candidature a bien été prise en compte. A très bientôt.";
     }
