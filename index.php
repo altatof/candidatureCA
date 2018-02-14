@@ -57,7 +57,7 @@ Et dans le concret, ça veut dire quoi ?<br>
 <li>Être administrateur c'est donc porter une grande responsabilité, mais c'est aussi avoir un pouvoir important. Un bon administrateur peut également veiller au bon partage du pouvoir pour impliquer au mieux l'ensemble des adhérents d'un projet.</li>
 </ul>
 <br>
-Toute les membres de l'éléfàn vous remercient d'ores et déjà de votre implication.</p>
+Tous les membres de l'éléfàn te remercient d'ores et déjà pour ton implication.</p>
   </div>
 </div>
   <div class="container">
